@@ -5,8 +5,9 @@ Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
 ``` bash
-# learn three js like a pro
+# learn three js like a pro :
 https://threejs-journey.com/
+
 # Install dependencies (only the first time)
 npm install
 
