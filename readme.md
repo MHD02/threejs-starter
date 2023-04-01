@@ -1,14 +1,12 @@
 # Three.js Journey
-
+## learn three js like a pro :
+## https://www.threejs-journey.com
+## https://www.youtube.com/c/brunosimon
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
 ``` bash
-# learn three js like a pro :
-https://www.threejs-journey.com
-https://www.youtube.com/c/brunosimon
-
 # Install dependencies (only the first time)
 npm install
 
